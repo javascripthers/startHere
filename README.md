@@ -16,8 +16,8 @@ Thanks so much! Raise an issue on here or contact me through one of the routes b
 
 - Can I help organise?
 
-Yes! Join the [slack](https://javascripthers.herokuapp.com/), email javascripther@gmail.com or tweet @oluoluoxenfree or @javascripthers.
+Yes! Join the [slack](https://javascripthers.herokuapp.com/), email <mailto:javascripther@gmail.com> or tweet [@oluoluoxenfree](https://twitter.com/oluoluoxenfree) or [@javascripthers](https://twitter.com/javascripthers).
 
 - Can I sponsor you?
 
-Email javascripther@gmail.com.
+Email <mailto:javascripther@gmail.com>.
